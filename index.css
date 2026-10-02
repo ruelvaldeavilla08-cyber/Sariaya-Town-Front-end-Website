@@ -1,0 +1,120 @@
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+
+.header {
+    background-image: url(images/banahaw.jpg);
+    background-size: cover;
+    padding: 10px 0 250px 0;
+}
+
+.act1, .act2, .act3, .act4 {
+    color: #1d3654;
+    
+}
+
+.town {
+    width: 170px;
+    margin: 200px auto 15px auto;
+    background: #477d9b;
+    padding: 5px 12px;
+    color: white;
+    border-radius: 5px;
+}
+
+.proud {
+    width: 300px;
+    margin: 20px auto 15px auto;
+    background: #1d3654;
+    padding: 5px 15px;
+    border-radius: 5px;
+    color: white;
+}
+
+.activities {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 15px;
+    margin: 0;
+}
+
+.activities-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-bottom: 20px;
+    gap: 100px;
+}
+
+#mountains-image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 6px solid white;
+    
+}
+
+#sea-image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 6px solid white;
+}
+
+#heritage-house {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 6px solid white;
+}
+
+.activities {
+    background-color: #B5EAF7;
+}
+
+#Selftour {
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+}
+.tourguide {
+    display: flex;
+    margin: 20px auto 0px auto;
+    width: 300px;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    background: #a8dadb;
+    padding: 20px 30px;
+    border-radius: 10px;
+    border-bottom: 5px solid blue;
+    margin-bottom: 20px;
+}
+
+.story {
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
